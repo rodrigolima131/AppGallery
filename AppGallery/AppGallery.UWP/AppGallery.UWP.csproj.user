@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\dev\AppGallery\material\logoAndroid\drawable-xxxhdpi\logo.png</Source>
+    <SmallTileSource>C:\dev\AppGallery\material\logoAndroid\drawable-xxxhdpi\logo.png</SmallTileSource>
+    <MediumTileSource>C:\dev\AppGallery\material\logoAndroid\drawable-xxxhdpi\logo.png</MediumTileSource>
+    <WideTileSource>C:\dev\AppGallery\material\logoAndroid\drawable-xxxhdpi\logo.png</WideTileSource>
+    <LargeTileSource>C:\dev\AppGallery\material\logoAndroid\drawable-xxxhdpi\logo.png</LargeTileSource>
+    <AppIconSource>C:\dev\AppGallery\material\logoAndroid\drawable-xxxhdpi\logo.png</AppIconSource>
+    <SplashScreenSource>C:\dev\AppGallery\material\logoAndroid\drawable-xxxhdpi\logo.png</SplashScreenSource>
+    <PackageLogoSource>C:\dev\AppGallery\material\logoAndroid\drawable-xxxhdpi\logo.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
